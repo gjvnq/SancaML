@@ -60,7 +60,7 @@ This is paragraph has an emoji (🍨) on a link: [🍨](https://emojipedia.org/i
 | ```<bib>```   | Bibliographical work |
 
 
-```
+```xml
 <abr for="Rest in Peace">RIP</abr>
 <acr for="HyperText Markup Language">RIP</acr>
 <pr as="closure">Clojure</pr>
