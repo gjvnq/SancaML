@@ -51,7 +51,7 @@ This is paragraph has an emoji (🍨) on a link: [🍨](https://emojipedia.org/i
 
 | Tag           | Meaning       |
 | ------------- | ------------- |
-| ```<abr>```   | Abreviation (the screen reader will read the full text)  |
+| ```<abr>```   | Abbreviation (the screen reader will read the full text)  |
 | ```<acr>```   | Acronymum  |
 | ```<pr>```    | Pronunciation |
 | ```<p>```     | Paragraph |
